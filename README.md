@@ -6,7 +6,6 @@
 
 CSense下载链接：
 [下载链接](https://raw.githubusercontent.com/noobsblock/CSense2/refs/heads/main/CSense2.js)
-
 eureka下载链接：
 [下载链接](https://github.com/noobsblock/CSense2/blob/main/eureka-loader.user.js)
 
