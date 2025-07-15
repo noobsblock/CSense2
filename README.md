@@ -9,4 +9,7 @@ CSense下载链接：
 eureka下载链接：
 [下载链接](https://github.com/noobsblock/CSense2/blob/main/eureka-loader.user.js)
 
+不是哥们，这都能找到，
+
+
 ## 注意使用暴力猴，并打开开发者模式。
